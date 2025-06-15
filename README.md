@@ -15,3 +15,5 @@ Dengan klien yang tersebar di seluruh penjuru dunia dan jumlah produk yang menca
  2. Jika perbedaan tersebut ada, apakah hal ini menunjukkan adanya kendala dalam strategi pemasaran yang diterapkan di salah satu atau beberapa wilayah?
 
  3. Apakah terdapat potensi pasar yang belum dimaksimalkan secara optimal di wilayah tertentu berdasarkan perbedaan performa penjualan tersebut?
+
+Berikut adalah Dashboard Tablue : https://public.tableau.com/views/CAPSTONE2FINAL_17475588847620/DSProfit?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
